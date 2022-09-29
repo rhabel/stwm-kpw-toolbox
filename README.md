@@ -1,2 +1,2 @@
 # stwm-kpw-toolbox
-standortsgerechtes Waldmanagement im Kleinprivatwald
+Standortsgerechtes Waldmanagement im Kleinprivatwald
